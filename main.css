@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    
+    width: 100vw;
+}
+
+.flex-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo {
+    
+    text-shadow: 5px 5px rgb(127, 252, 255), 10px 10px rgb(255, 65, 58);
+    font-size: 150px;
+    color: white;
+
+    font-family: 'Open Sans', sans-serif;
+
+    transform: rotate(-20deg);
+}
+.text-container {
+    font-family: "Open Sans", sans-serif;
+    font-size: 44px;
+    color: white;
+}

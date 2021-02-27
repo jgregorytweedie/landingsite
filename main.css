@@ -107,9 +107,9 @@ so I did it in 5 minutes. pain.*/
   display: flex;
   justify-content: center;
   text-align: center;
-
+  color: rgb(255, 65, 58);
   font-family: "Open Sans", sans-serif;
-  text-shadow: 5px 5px rgb(127, 252, 255), 10px 10px rgb(255, 65, 58);
+  text-shadow: 5px 5px rgb(127, 252, 255), 10px 10px white;
 }
 .about-me {
   display: flex;
